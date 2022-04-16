@@ -49,15 +49,15 @@ Our [Report on the European Music Economy](https://zenodo.org/record/6464782#.Yl
 
 The current version of the _Report on the European Music Economy [outline]_ is a research planning document that sets out our 9 transparancy criteria following the best practices (Level 3) of the Open Policy Analysis Guidelines, and provides some illustrations on how a "live policy document" works with a few reproducible datasets^[Report on the European Music Economy [outline] [@report_european_music_economy]]. If our Proposal is successful and gets funded, the document will start to contain reused data from 2023, new data from 2024, and can be first read as draft policy document in the summer of 2024. 
 
+## Open Policy Analysis Requirements (Level 3) {#OPA-requirements}
 
-## Open Output 
+### Open Output {#OPA-open-output}
 
 1. **Ensure unified output by defining the most appropriate format for the report
 before publishing, and justifying changes to format output across reports.** Best practice: A detailed description of output is provided, including a sample output published 
 pre-release of final results, using version control within and across reports
 
 2. **Establish a clear link between input and output by displaying how the output changes under different assumptions**. Best practice: An interactive tool allowing for adjusted inputs is provided, and its underlying code shares the same key sections of code behind the analysis section.
-
 
 ## Open Materials 
 
@@ -70,7 +70,7 @@ open notebook. No spreadsheets. Our Methodologies are part of our Proposal, and 
 
 7. **Label and document each input, including data, research, and guesswork.** Best practice: List all inputs, their sources, and provide links or detailed references. We use DublinCore and DataCite mandatory and recommended descriptive metadata to provide not only full bibliographic reference, but also full findability and interoperabilty, and clear reuse conditions.
 
-7. **Ensure that code/spreadsheets are reproducible**. Best practice: For code: Code is easily readable and possible to run with just one click. Spreadsheets are published with the code, and the code re-creates the spreadsheet from the latest data on one click. New runs are placed in the Digital Music Observatory community space on Zenodo, like []().
+7. **Ensure that code/spreadsheets are reproducible**. Best practice: _For code_: Code is easily readable and possible to run with just one click. _Spreadsheets_ are published with the code, and the code re-creates the spreadsheet from the latest data on one click. New runs are placed in the Digital Music Observatory community space](https://zenodo.org/communities/music_observatory) on Zenodo, like our [Individuals Who Never Used the Internet](https://zenodo.org/record/5121507#.Ylrc9NpBzIU) dataset.
 
 9. **Use a version control strategy.** Best practice: All team members use version control software and track changes in a shared project repository. This document is placed in a version controlled repostiory [github.com/dataobservatory-eu/report-european-music-economy](https://github.com/dataobservatory-eu/report-european-music-economy)
 

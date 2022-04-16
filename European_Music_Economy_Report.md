@@ -28,7 +28,9 @@ Proposal is successful and gets funded, the document will start to
 contain reused data from 2023, new data from 2024, and can be first read
 as draft policy document in the summer of 2024.
 
-## Open Output
+## Open Policy Analysis Requirements (Level 3)
+
+### Open Output
 
 1.  **Ensure unified output by defining the most appropriate format for
     the report before publishing, and justifying changes to format
@@ -73,11 +75,13 @@ as draft policy document in the summer of 2024.
     interoperabilty, and clear reuse conditions.
 
 5.  **Ensure that code/spreadsheets are reproducible**. Best practice:
-    For code: Code is easily readable and possible to run with just one
-    click. Spreadsheets are published with the code, and the code
+    *For code*: Code is easily readable and possible to run with just
+    one click. *Spreadsheets* are published with the code, and the code
     re-creates the spreadsheet from the latest data on one click. New
-    runs are placed in the Digital Music Observatory community space on
-    Zenodo, like []().
+    runs are placed in the Digital Music Observatory community
+    space\](<https://zenodo.org/communities/music_observatory>) on
+    Zenodo, like our [Individuals Who Never Used the
+    Internet](https://zenodo.org/record/5121507#.Ylrc9NpBzIU) dataset.
 
 6.  **Use a version control strategy.** Best practice: All team members
     use version control software and track changes in a shared project

@@ -49,6 +49,3 @@ In the last decade, the evidence-based policy movement gained significant tracti
 Our [Report on the European Music Economy](https://zenodo.org/record/6464782#.Ylq7JNpBzIU), and its supporting document, [Economy of music in Europe: Novel data collection methods and indicators]() will follow the Open Policy Analysis Guidelines and the best practices of the European Union's Knowledge For Policy and the [European Open Science Cloud](https://eosc-portal.eu/) portal. 
 
 The aim of this document is to **Share an open report that includes clear accounts of all methodological procedures, data, and assumptions.** Best practice: All project components are organized in a selfcontained folder using a Standard File Structure (SFS), and a readme file is included. We place all files with SFS on the European open science repository Zenodo on [zenodo.org/communities/music_observatory/](https://zenodo.org/communities/music_observatory/).
-
-
-
