@@ -14,19 +14,16 @@ Innovation 2020).)
 Our [Report on the European Music
 Economy](https://zenodo.org/record/6464782#.Ylq7JNpBzIU), and its
 supporting document, [Economy of music in Europe: Novel data collection
-methods and indicators]() will follow the Open Policy Analysis
-Guidelines and the best practices of the European Union’s Knowledge For
-Policy and the [European Open Science Cloud](https://eosc-portal.eu/)
-portal.
+methods and indicators](https://doi.org/10.5281/zenodo.6464990) will
+follow the Open Policy Analysis Guidelines and the best practices of the
+European Union’s Knowledge For Policy and the [European Open Science
+Cloud](https://eosc-portal.eu/) portal.
 
 The current version of the *Report on the European Music Economy
 \[outline\]* is a research planning document that sets out our 9
-transparancy criteria following the best practices (Level 3) of the Open
+transparency criteria following the best practices (Level 3) of the Open
 Policy Analysis Guidelines, and provides some illustrations on how a
-“live policy document” works with a few reproducible datasets[1]. If our
-Proposal is successful and gets funded, the document will start to
-contain reused data from 2023, new data from 2024, and can be first read
-as draft policy document in the summer of 2024.
+“live policy document” works with a few reproducible datasets[1][2].
 
 ## Open Policy Analysis Requirements (Level 3)
 
@@ -106,6 +103,8 @@ and DOI. Change the data input from Bulgaria to Belgium, and
 re-interpret the model results, tables, visualization in the document,
 you get a scientifically valid valuation for Belgium.
 
+## References
+
 Antal, Daniel, Joost Poort, and Guilio Botazzi. 2022. *Report on the
 European Music Economy \[Outline\]*.
 <https://doi.org/10.5281/zenodo.6464782>.
@@ -135,3 +134,7 @@ Eric-Jan Wagenmakers, Jennifer J. Ware, and John P. A. Ioannidis. 2017.
 
 [1] Report on the European Music Economy \[outline\] (Antal, Poort, and
 Botazzi 2022)
+
+[2] If our Proposal is successful and gets funded, the document will
+start to contain reused data from 2023, new data from 2024, and can be
+first read as draft policy document in the summer of 2024.

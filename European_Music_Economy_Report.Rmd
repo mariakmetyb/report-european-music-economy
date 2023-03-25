@@ -12,26 +12,25 @@ output:
   word_document: default
   html_document: default
 bibliography:
-- datascience.bib
-- mme.bib
-- legalccsi.bib
-- antal.bib
-- competition.bib
-- caselaw.bib
-- dcms.bib
-- digitalmusicobservatory.bib
-- packages.bib
-- musicindustry.bib
-- musicology.bib
-- statisticalmethodology.bib
-- datainteroperability.bib
-- eulaw.bib
-- openscience.bib
-- opa.bib
-- opendata.bib
-- rpackages.bib
-- valuation.bib
-- valuegap.bib
+- bib/datascience.bib
+- bib/mme.bib
+- bib/legalccsi.bib
+- bib/antal.bib
+- bib/competition.bib
+- bib/caselaw.bib
+- bib/dcms.bib
+- bib/digitalmusicobservatory.bib
+- bib/packages.bib
+- bib/musicindustry.bib
+- bib/statisticalmethodology.bib
+- bib/datainteroperability.bib
+- bib/eulaw.bib
+- bib/openscience.bib
+- bib/opa.bib
+- bib/opendata.bib
+- bib/rpackages.bib
+- bib/valuation.bib
+- bib/valuegap.bib
 ---
 
 ```{r setupdmoeconomypillar, include=FALSE}
@@ -47,7 +46,9 @@ In the last decade, the evidence-based policy movement gained significant tracti
 
 Our [Report on the European Music Economy](https://zenodo.org/record/6464782#.Ylq7JNpBzIU), and its supporting document, [Economy of music in Europe: Novel data collection methods and indicators](https://doi.org/10.5281/zenodo.6464990) will follow the Open Policy Analysis Guidelines and the best practices of the European Union's Knowledge For Policy and the [European Open Science Cloud](https://eosc-portal.eu/) portal. 
 
-The current version of the _Report on the European Music Economy [outline]_ is a research planning document that sets out our 9 transparancy criteria following the best practices (Level 3) of the Open Policy Analysis Guidelines, and provides some illustrations on how a "live policy document" works with a few reproducible datasets^[Report on the European Music Economy [outline] [@report_european_music_economy]]. If our Proposal is successful and gets funded, the document will start to contain reused data from 2023, new data from 2024, and can be first read as draft policy document in the summer of 2024. 
+The current version of the _Report on the European Music Economy [outline]_ is a research planning document that sets out our 9 transparency criteria following the best practices (Level 3) of the Open Policy Analysis Guidelines, and provides some illustrations on how a "live policy document" works with a few reproducible datasets^[Report on the European Music Economy [outline] [@report_european_music_economy]] [^2].
+
+[^2]: If our Proposal is successful and gets funded, the document will start to contain reused data from 2023, new data from 2024, and can be first read as draft policy document in the summer of 2024. 
 
 ## Open Policy Analysis Requirements (Level 3) {#OPA-requirements}
 
@@ -75,5 +76,6 @@ open notebook. No spreadsheets. Our Methodologies are part of our Proposal, and 
 9. **Use a version control strategy.** Best practice: All team members use version control software and track changes in a shared project repository. This document is placed in a version controlled repostiory [github.com/dataobservatory-eu/report-european-music-economy](https://github.com/dataobservatory-eu/report-european-music-economy)
 
 
-
 Following the state-of-the-art in reproducible, open policy analysis, we will introduce the "live policy document" developed by Reprex in cooperation with IVIR (in science), and Artisjus and SOZA (in music industry application.). This will follow the highest level or reproducability of transferability. The valuation report on Bulgarian music will be contained in a clearly documented dynamic document that contains the assumptions, software code to read in the data from the data sources, perform the modelling, create the visualizations, document citations, and place it in the same file with the conclusions.   Our "live policy documents" with a press of a button are reading in new information, change model outputs and visualizations, update the bibliography, create an html, PDF, ebook and docx output, and place the results on the Zenodo open science repository with an authoritative copy and DOI.  Change the data input from Bulgaria to Belgium, and re-interpret the model results, tables, visualization in the document, you get a scientifically valid valuation for Belgium.
+
+## References
