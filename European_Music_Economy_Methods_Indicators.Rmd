@@ -8,31 +8,30 @@ author:
 - Andrés García Molina, PhD, Reprex
 date: "`r Sys.Date()`"
 output:
-  pdf_document: default
+  html_document: default
   md_document: default
   word_document: default
-  html_document: default
+  pdf_document: default
 bibliography:
-- datascience.bib
-- mme.bib
-- legalccsi.bib
-- antal.bib
-- competition.bib
-- caselaw.bib
-- dcms.bib
-- digitalmusicobservatory.bib
-- packages.bib
-- musicindustry.bib
-- musicology.bib
-- statisticalmethodology.bib
-- datainteroperability.bib
-- eulaw.bib
-- openscience.bib
-- opa.bib
-- opendata.bib
-- rpackages.bib
-- valuation.bib
-- valuegap.bib
+- bib/datascience.bib
+- bib/mme.bib
+- bib/legalccsi.bib
+- bib/antal.bib
+- bib/competition.bib
+- bib/caselaw.bib
+- bib/dcms.bib
+- bib/digitalmusicobservatory.bib
+- bib/packages.bib
+- bib/musicindustry.bib
+- bib/statisticalmethodology.bib
+- bib/datainteroperability.bib
+- bib/eulaw.bib
+- bib/openscience.bib
+- bib/opa.bib
+- bib/opendata.bib
+- bib/rpackages.bib
+- bib/valuation.bib
+- bib/valuegap.bib
 ---
 
 ```{r setupdmoeconomypillar, include=FALSE}
